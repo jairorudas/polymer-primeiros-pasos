@@ -1,2 +1,3 @@
 # polymer-primeiros-pasos
-Primeiros passo com polymer, pluralsight
+Primeros paso con polymer, Curso pluralsight. 
+Repositorio con fines meramente educativos.
